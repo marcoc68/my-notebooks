@@ -1,0 +1,30 @@
+# exclude files
+*.ex4
+*.ex5
+*.dat
+*.pyc
+log.txt
+.project
+.*
+
+# exclude directories completely
+Images
+Indicators
+Libraries
+Logs
+Presets
+Profiles
+Services
+"Shared Projects"
+Levels
+Params
+.vscode
+
+# exclude directory contents
+#Experts/*
+#Files/*
+#Include/*
+#Scripts/*
+
+# except for directories
+#!Include/oslib
