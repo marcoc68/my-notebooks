@@ -1,1 +1,1 @@
-# my-notes-ai4trading-nanodegree
+# my-notes
